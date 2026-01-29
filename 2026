@@ -2,7 +2,7 @@ Do not import these as global ground markers. Import these as individual tile pa
 
 Tekton
 
-[{"regionId":13138,"regionX":47,"regionY":37,"z":1,"color":"#FFF56666","label":"maul"},{"regionId":13138,"regionX":50,"regionY":35,"z":1,"color":"#FF4BE580","label":"lure"},{"regionId":13138,"regionX":50,"regionY":37,"z":1,"color":"#FF66DFE2","label":"5-bgs"},{"regionId":13138,"regionX":50,"regionY":49,"z":1,"color":"#FF66DFE2","label":"5-bgs"},{"regionId":13138,"regionX":48,"regionY":49,"z":1,"color":"#FF5EE086","label":"5-maul"},{"regionId":13138,"regionX":50,"regionY":47,"z":1,"color":"#FFE7C43F","label":"3-1"},{"regionId":13138,"regionX":51,"regionY":51,"z":1,"color":"#FFE7C43F","label":"3-2"},{"regionId":13138,"regionX":47,"regionY":42,"z":1,"color":"#FF4BE580","label":"lure"}]
+[{"regionId":13138,"regionX":47,"regionY":37,"z":1,"color":"#FFF56666","label":"maul"},{"regionId":13138,"regionX":50,"regionY":35,"z":1,"color":"#FF4BE580","label":"lure"},{"regionId":13138,"regionX":50,"regionY":37,"z":1,"color":"#FF66DFE2","label":"5-bgs"},{"regionId":13138,"regionX":50,"regionY":49,"z":1,"color":"#FF66DFE2","label":"5-bgs"},{"regionId":13138,"regionX":48,"regionY":49,"z":1,"color":"#FF5EE086","label":"5-maul"},{"regionId":13138,"regionX":51,"regionY":51,"z":1,"color":"#FFE7C43F","label":"3-2"},{"regionId":13138,"regionX":47,"regionY":42,"z":1,"color":"#FF4BE580","label":"lure"},{"regionId":13138,"regionX":51,"regionY":49,"z":1,"color":"#FFDABD00","label":"Close"}]
 
 
 42 crabs
